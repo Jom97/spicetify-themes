@@ -27,7 +27,6 @@
 }
 
 /*Hide top and bottom buttons of scrollbar */
-/*who uses those, lol*/
 ::-webkit-scrollbar-button {
 	display: none !important;
 }
